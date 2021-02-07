@@ -20,7 +20,7 @@ function setup()
 
 function draw()
 {
-    background(51);
+    background("yellow");
     rect(20,pad1,10,100);
     rect(width-30,pad2,10,100);
     ellipse(ball.x,ball.y,20);
